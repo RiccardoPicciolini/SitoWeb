@@ -1,4 +1,0 @@
-<html> 
-<head> </head>
-<body> Ciao mondo, viva Padule, fate pena, forza Gubbio!!! </body>
-</html>
